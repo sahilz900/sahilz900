@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sahil Kumar Singh</h1>
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966" alt="Banner" width="100%">
+</p>
+
 <h3 align="center">Skilled in MySQL, Power BI, Advanced Excel, and Python for data analysis, visualization, and automation, with a strong focus on data-driven insights.</h3>
 
 <img align="right" alt="Analyst" width="400" src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=6c09b952vz4m1jtggrvzhlirdanaj4kvo4crkkqp9qhaktvf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilz900&label=Profile%20views&color=0e75b6&style=flat" alt="sahilz900" /> </p>
-
 - 🔭 I’m currently working on **AI-Powered Face Recognition Attendance System 🚀✨**
 
 - 🌱 I’m currently learning **Data Analytics and related technologies to enhance my analytical skills**
