@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sahilsinghozuma093@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10n3p-bAMCwEReCk7iMvuv5aaX_Lee8we/view?usp=sharing](https://drive.google.com/file/d/10n3p-bAMCwEReCk7iMvuv5aaX_Lee8we/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10n3p-bAMCwEReCk7iMvuv5aaX_Lee8we/view?usp=sharing]
 
 - ⚡ Fun fact **From coding to crunching data, I’m always up for a tech adventure! 🚀**
 
@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilz900&show_icons=true&locale=en" alt="sahilz900" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilz900&" alt="sahilz900" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilz900&" alt="sahilz900" /></p>]
