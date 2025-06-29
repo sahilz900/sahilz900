@@ -9,7 +9,6 @@
 <img align="right" alt="Analyst" width="400" src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=6c09b952vz4m1jtggrvzhlirdanaj4kvo4crkkqp9qhaktvf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilz900&label=Profile%20views&color=0e75b6&style=flat" alt="sahilz900" /> </p>
-- 🔭 I’m currently working on **🚀 Automating Gmail responses to customer queries and Extracting questions from emails and generating answers to it**
 
 - 🌱 I’m currently learning **Data Analytics and related technologies to enhance my analytical skills**
 
@@ -17,7 +16,7 @@
 
 - 📫 How to reach me **sahilsinghozuma093@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10n3p-bAMCwEReCk7iMvuv5aaX_Lee8we/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jkZ2-rYlxHghwgxBRHyo-1MnVH46rglj/view?usp=drive_link]
 
 - ⚡ Fun fact **From coding to crunching data, I’m always up for a tech adventure! 🚀**
 
